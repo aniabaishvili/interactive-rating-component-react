@@ -1,0 +1,64 @@
+.rate-container {
+  background: radial-gradient(
+    98.96% 98.96% at 50% 0%,
+    #232a34 0%,
+    #181e27 100%
+  );
+  width: 327px;
+  padding: 20px;
+  text-align: left;
+  border-radius: 20px;
+}
+
+img {
+  background: #262e38;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 30px;
+  color: white;
+  padding: 10px 0px;
+}
+
+p {
+  color: #969fad;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 22px;
+  width: 279px;
+  height: 66px;
+  padding: 10px 0px;
+}
+
+.rate-btn {
+  background: #262e38;
+  color: #7c8798;
+  border-style: none;
+  border-radius: 50%;
+  padding: 10px;
+  width: 42px;
+  height: 42px;
+}
+
+.btn-container {
+  display: flex;
+  column-gap: 20px;
+  width: 281px;
+  padding: 20px 0px;
+}
+
+.submit{
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1.87px;
+    font-size: 14px;
+    background-color:#FC7614;
+    width: 279px;
+    height: 45px;
+    border-style: none;
+    border-radius: 32px;
+}
