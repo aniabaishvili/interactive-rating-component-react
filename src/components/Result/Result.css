@@ -1,0 +1,31 @@
+.result-container {
+  background: radial-gradient(
+    98.96% 98.96% at 50% 0%,
+    #232a34 0%,
+    #181e27 100%
+  );
+  /* width: 327px; */
+  padding: 30px;
+  border-radius: 20px;
+}
+
+
+
+h2 {
+  color: #fc7614;
+  font-weight: 400;
+  font-size: 14px;
+  padding: 10px 0px;
+  background-color: #232a34;
+  width: 170px;
+  height: 35px;
+  border-radius: 10px;
+  margin: auto;
+}
+
+@media screen and (min-width: 568) {
+  .result-container {
+    width: 412px;
+    padding: 30px;
+  }
+}
